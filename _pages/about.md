@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at  Institut für Mathematische Stochastik ([IMST](https://www.math.ovgu.de/Institute/IMST.html) ) in the [Otto-von-Guericke-Universität Magdeburg](https://www.ovgu.de) where I work in collaboration with [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
-I work mostly on bandit and reinforcement learning.
+I am a postdoctoral researcher at  Institut für Mathematische Stochastik ([IMST](https://www.math.ovgu.de/Institute/IMST.html) ) in the [Otto-von-Guericke-Universität Magdeburg](https://www.ovgu.de) in collaboration with [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
+My work is mainly focused on bandit and reinforcement learning.
 
 
 
