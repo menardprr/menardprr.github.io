@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 * [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**A kernel-based approach to non-stationary reinforcement learning in metric spaces**](https://arxiv.org/pdf/2007.05078.pdf), AISTATS 2021, with
@@ -18,7 +17,7 @@ author_profile: true
 * [**Optimal Strategies for Graph-Structured Bandits**](https://arxiv.org/pdf/2007.03224), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
 
 * [**Forced-exploration free Strategies for Unimodal Bandits**](https://arxiv.org/pdf/2006.16569.pdf), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
-* 
+
 * [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), preprint 2020,with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), Neurips 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
@@ -39,13 +38,11 @@ author_profile: true
 
 * [**Fano’s inequality for random variables**](https://arxiv.org/pdf/1702.05985.pdf),  Statistical Science 2020, with [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/%7Esgerchin/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
-
 * [**Gradient Ascent for Active Exploration in Bandit Problems**](http://perso.math.univ-toulouse.fr/pmenard/files/2012/04/gradient_ascent_active_explo.pdf), preprint 2019.
 
 * [**KL-UCB-switch: optimal regret bounds for stochastic bandits from both a distribution-dependent and a distribution-free viewpoints**](https://arxiv.org/pdf/1805.05071.pdf), preprint 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/), [Hédi Hadiji](https://www.imo.universite-paris-saclay.fr/~hadiji/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
 * [**Explore first, exploit next: the true shape of regret in bandit problems**](https://arxiv.org/pdf/1602.07182.pdf), MOR 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
-
 
 * [**A minimax and asymptotically optimal algorithm for stochastic bandits**](https://arxiv.org/pdf/1702.07211.pdf), ALT 2017, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
 
