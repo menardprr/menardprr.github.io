@@ -5,15 +5,48 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+* [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**A kernel-based approach to non-stationary reinforcement learning in metric spaces**](https://arxiv.org/pdf/2007.05078.pdf), AISTATS 2021, with
+[Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Episodic Reinforcement Learning in Finite MDPs: Minimax Lower Bounds Revisited**](https://arxiv.org/pdf/2010.03531.pdf), ALT 2021,with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Adaptive reward-free exploration**](https://arxiv.org/pdf/2006.06294), ALT 2021, with [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Optimal Strategies for Graph-Structured Bandits**](https://arxiv.org/pdf/2007.03224), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
+
+* [**Forced-exploration free Strategies for Unimodal Bandits**](https://arxiv.org/pdf/2006.16569.pdf), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
+* 
+* [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), preprint 2020,with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), Neurips 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**The Influence of Shape Constraints on the Thresholding Bandit Problem**](https://arxiv.org/pdf/2006.10006.pdf), COLT 2020, with James Cheshire and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
+
+* [**A single algorithm for both restless and rested rotting bandits**](http://proceedings.mlr.press/v108/seznec20a/seznec20a.pdf), AISTATS 2020, with Julien Seznec, [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Fixed-confidence guarantees for Bayesian best-arm identification**](https://arxiv.org/pdf/1910.10945.pdf), AISTATS 2020, with [Xuedong Shang](https://xuedong.github.io/about/), [Rianne de Heide](https://homepages.cwi.nl/~heide/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Planning in entropy-regularized Markov decision processes and games**](https://proceedings.neurips.cc/paper/2019/file/50982fb2f2cfa186d335310461dfa2be-Paper.pdf), Neurips 2019, with Jean-Bastien Grill, [Omar Darwiche Domingues](https://omardrwch.github.io/), [Rémi Munos](http://researchers.lille.inria.fr/munos/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Gamification of pure exploration for linear bandits**](http://proceedings.mlr.press/v119/degenne20a/degenne20a.pdf), ICML 2020, with [Rémy Degenne](https://remydegenne.github.io/), [Xuedong Shang](https://xuedong.github.io/about/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Thresholding Bandit for Dose-ranging: The Impact of Monotonicity**](https://arxiv.org/pdf/1711.04454.pdf), ICMA 2020, with Laurent Rossi and [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
+
+* [**Non-asymptotic pure exploration by solving games**](https://arxiv.org/pdf/1906.10431), Neurips 2019, with [Rémy Degenne](https://remydegenne.github.io/) and [Wouter Koolen](http://wouterkoolen.info/).
+
+* [**Fano’s inequality for random variables**](https://arxiv.org/pdf/1702.05985.pdf),  Statistical Science 2020, with [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/%7Esgerchin/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
+
+
+* [**Gradient Ascent for Active Exploration in Bandit Problems**](http://perso.math.univ-toulouse.fr/pmenard/files/2012/04/gradient_ascent_active_explo.pdf), preprint 2019.
+
+* [**KL-UCB-switch: optimal regret bounds for stochastic bandits from both a distribution-dependent and a distribution-free viewpoints**](https://arxiv.org/pdf/1805.05071.pdf), preprint 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/), [Hédi Hadiji](https://www.imo.universite-paris-saclay.fr/~hadiji/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
+
+* [**Explore first, exploit next: the true shape of regret in bandit problems**](https://arxiv.org/pdf/1602.07182.pdf), MOR 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
+
+
+* [**A minimax and asymptotically optimal algorithm for stochastic bandits**](https://arxiv.org/pdf/1702.07211.pdf), ALT 2017, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
+
 You can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=KXimUncAAAAJ&hl=en").
-
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
