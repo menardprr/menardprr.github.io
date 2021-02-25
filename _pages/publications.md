@@ -18,7 +18,7 @@ author_profile: true
 
 * [**Forced-exploration free Strategies for Unimodal Bandits**](https://arxiv.org/pdf/2006.16569.pdf), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
 
-* [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), preprint 2020,with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), Neurips 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
@@ -34,7 +34,7 @@ author_profile: true
 
 * [**Thresholding Bandit for Dose-ranging: The Impact of Monotonicity**](https://arxiv.org/pdf/1711.04454.pdf), ICMA 2020, with Laurent Rossi and [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
 
-* [**Fano’s inequality for random variables**](https://arxiv.org/pdf/1702.05985.pdf),  Statistical Science 2020, with [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/%7Esgerchin/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
+* [**Fano’s inequality for random variables**](https://arxiv.org/pdf/1702.05985.pdf), Statistical Science 2020, with [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/%7Esgerchin/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
 * [**Non-asymptotic pure exploration by solving games**](https://arxiv.org/pdf/1906.10431), Neurips 2019, with [Rémy Degenne](https://remydegenne.github.io/) and [Wouter Koolen](http://wouterkoolen.info/).
 
