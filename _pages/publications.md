@@ -34,9 +34,10 @@ author_profile: true
 
 * [**Thresholding Bandit for Dose-ranging: The Impact of Monotonicity**](https://arxiv.org/pdf/1711.04454.pdf), ICMA 2020, with Laurent Rossi and [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
 
+* [**Fano’s inequality for random variables**](https://arxiv.org/pdf/1702.05985.pdf),  Statistical Science 2020, with [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/%7Esgerchin/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
+
 * [**Non-asymptotic pure exploration by solving games**](https://arxiv.org/pdf/1906.10431), Neurips 2019, with [Rémy Degenne](https://remydegenne.github.io/) and [Wouter Koolen](http://wouterkoolen.info/).
 
-* [**Fano’s inequality for random variables**](https://arxiv.org/pdf/1702.05985.pdf),  Statistical Science 2020, with [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/%7Esgerchin/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
 * [**Gradient Ascent for Active Exploration in Bandit Problems**](http://perso.math.univ-toulouse.fr/pmenard/files/2012/04/gradient_ascent_active_explo.pdf), preprint 2019.
 
