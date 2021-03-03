@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**A kernel-based approach to non-stationary reinforcement learning in metric spaces**](https://arxiv.org/pdf/2007.05078.pdf), AISTATS 2021, with
 [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Episodic Reinforcement Learning in Finite MDPs: Minimax Lower Bounds Revisited**](https://arxiv.org/pdf/2010.03531.pdf), ALT 2021,with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
-* [**Adaptive reward-free exploration**](https://arxiv.org/pdf/2006.06294), ALT 2021, with [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**Adaptive reward-free exploration**](https://arxiv.org/pdf/2006.06294), ALT 2021, with [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Optimal Strategies for Graph-Structured Bandits**](https://arxiv.org/pdf/2007.03224), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
 
@@ -20,7 +20,7 @@ author_profile: true
 
 * [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
-* [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), Neurips 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edourd Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), Neurips 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**The Influence of Shape Constraints on the Thresholding Bandit Problem**](https://arxiv.org/pdf/2006.10006.pdf), COLT 2020, with James Cheshire and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
 
