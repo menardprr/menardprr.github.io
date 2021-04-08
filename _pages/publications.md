@@ -28,8 +28,6 @@ author_profile: true
 
 * [**Fixed-confidence guarantees for Bayesian best-arm identification**](https://arxiv.org/pdf/1910.10945.pdf), AISTATS 2020, with [Xuedong Shang](https://xuedong.github.io/about/), [Rianne de Heide](https://homepages.cwi.nl/~heide/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
-* [**Planning in entropy-regularized Markov decision processes and games**](https://proceedings.neurips.cc/paper/2019/file/50982fb2f2cfa186d335310461dfa2be-Paper.pdf), Neurips 2019, with Jean-Bastien Grill, [Omar Darwiche Domingues](https://omardrwch.github.io/), [Rémi Munos](http://researchers.lille.inria.fr/munos/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
-
 * [**Gamification of pure exploration for linear bandits**](http://proceedings.mlr.press/v119/degenne20a/degenne20a.pdf), ICML 2020, with [Rémy Degenne](https://remydegenne.github.io/), [Xuedong Shang](https://xuedong.github.io/about/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Thresholding Bandit for Dose-ranging: The Impact of Monotonicity**](https://arxiv.org/pdf/1711.04454.pdf), ICMA 2020, with Laurent Rossi and [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
@@ -38,8 +36,9 @@ author_profile: true
 
 * [**Non-asymptotic pure exploration by solving games**](https://arxiv.org/pdf/1906.10431), Neurips 2019, with [Rémy Degenne](https://remydegenne.github.io/) and [Wouter Koolen](http://wouterkoolen.info/).
 
+* [**Planning in entropy-regularized Markov decision processes and games**](https://proceedings.neurips.cc/paper/2019/file/50982fb2f2cfa186d335310461dfa2be-Paper.pdf), Neurips 2019, with Jean-Bastien Grill, [Omar Darwiche Domingues](https://omardrwch.github.io/), [Rémi Munos](http://researchers.lille.inria.fr/munos/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
-* [**Gradient Ascent for Active Exploration in Bandit Problems**](http://perso.math.univ-toulouse.fr/pmenard/files/2012/04/gradient_ascent_active_explo.pdf), preprint 2019.
+* [**Gradient Ascent for Active Exploration in Bandit Problems**](https://arxiv.org/pdf/1905.08165.pdf), preprint 2019.
 
 * [**KL-UCB-switch: optimal regret bounds for stochastic bandits from both a distribution-dependent and a distribution-free viewpoints**](https://arxiv.org/pdf/1805.05071.pdf), preprint 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/), [Hédi Hadiji](https://www.imo.universite-paris-saclay.fr/~hadiji/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
