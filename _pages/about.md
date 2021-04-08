@@ -26,6 +26,6 @@ Contact
  pierre.menard@ovgu.de
 
 
- Misc
+ <!-- Misc
 ======
-To learn more about me please see one of my Wikipedia [pages](https://fr.wikipedia.org/wiki/Pierre_M%C3%A9nard).
+To learn more about me please see one of my Wikipedia [pages](https://fr.wikipedia.org/wiki/Pierre_M%C3%A9nard). -->
