@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-#excerpt: "Pierre"
+title: "Home"
+excerpt: "Pierre Ménard"
 header:
   overlay_image: perou.jpg
 author_profile: true
