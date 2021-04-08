@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: False
 ---
 
 * [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
