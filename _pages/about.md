@@ -2,7 +2,7 @@
 permalink: /
 title: "Pierre Ménard"
 header:
-  image: perou1.jpg
+  image: perou2.jpg
 author_profile: true
 redirect_from:
   - /about/
