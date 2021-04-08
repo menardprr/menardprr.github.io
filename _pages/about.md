@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Bio"
 header:
   image: perou3.jpg
 author_profile: true
