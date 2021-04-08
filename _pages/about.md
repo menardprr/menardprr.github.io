@@ -1,10 +1,9 @@
 ---
 permalink: /
-#title: "About me"
+title: "About me"
 #excerpt: "Pierre"
 header:
   overlay_image: /images/perou.jpg
-  overlay_filter: 0.5
 author_profile: true
 redirect_from:
   - /about/
