@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://fr.wikipedia.org/wiki/Pierre_M%C3%A9nard"
+  wikipedia        : #"https://fr.wikipedia.org/wiki/Pierre_M%C3%A9nard"
 
 
 # Reading Files

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierre Ménard"
+title: "About me"
 header:
   image: perou3.jpg
 author_profile: true
