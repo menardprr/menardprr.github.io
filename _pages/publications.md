@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: False
 ---
 
-* [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**UCB Momentum Q-learning: Correcting the bias without forgetting**](https://arxiv.org/pdf/2103.01312.pdf), ICML 2021, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Xuedong Shang](https://xuedong.github.io/about/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* **Problem Dependent View on Structured Thresholding Bandit Problems**, ICML 2021, with James Cheshire and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
+
+* [**Fast active learning for pure exploration in reinforcement learning**](https://arxiv.org/pdf/2007.13442.pdf), ICML 2021, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), ICML 2021, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**A kernel-based approach to non-stationary reinforcement learning in metric spaces**](https://arxiv.org/pdf/2007.05078.pdf), AISTATS 2021, with
 [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
@@ -17,8 +23,6 @@ author_profile: False
 * [**Optimal Strategies for Graph-Structured Bandits**](https://arxiv.org/pdf/2007.03224), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
 
 * [**Forced-exploration free Strategies for Unimodal Bandits**](https://arxiv.org/pdf/2006.16569.pdf), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
-
-* [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), preprint 2020, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), Neurips 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson) ,[Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
