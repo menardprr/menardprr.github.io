@@ -10,7 +10,7 @@ author_profile: False
 * [**Bandits with many optimal arms**](https://arxiv.org/pdf/2103.12452.pdf), NeurIPS 2021, with [Rianne de Heide](https://homepages.cwi.nl/~heide/), James Cheshire and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
 
 
-* [**Indexed Minimum Empirical Divergence for Unimodal Bandits**](https://arxiv.org/pdf/2006.16569.pdf), NeurIPS 2021, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
+* [**Indexed Minimum Empirical Divergence for Unimodal Bandits**](https://arxiv.org/pdf/2006.16569.pdf), NeurIPS 2021, with [Hassan Saber](https://hassansaber.com/) and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
 
 
 
@@ -29,7 +29,7 @@ author_profile: False
 
 * [**Adaptive reward-free exploration**](https://arxiv.org/pdf/2006.06294), ALT 2021, with [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
-* [**Optimal Strategies for Graph-Structured Bandits**](https://arxiv.org/pdf/2007.03224), preprint 2020, with Hassan Saber and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
+* [**Optimal Strategies for Graph-Structured Bandits**](https://arxiv.org/pdf/2007.03224), preprint 2020, with [Hassan Saber](https://hassansaber.com/) and [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/).
 
 
 * [**Planning in Markov decision processes with gap-dependent sample complexity**](https://arxiv.org/pdf/2006.05879), NeurIPS 2020, with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
