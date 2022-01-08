@@ -1,6 +1,6 @@
 ---
 header:
-  image: perou3.jpg
+  image: argentine.jpg
 title: "Publications"
 permalink: /publications/
 author_profile: False
