@@ -1,5 +1,4 @@
 ---
-layout: archive
 header:
   image: perou3.jpg
 title: "Publications"
