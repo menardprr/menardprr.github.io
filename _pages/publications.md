@@ -1,5 +1,7 @@
 ---
 layout: archive
+header:
+  image: perou3.jpg
 title: "Publications"
 permalink: /publications/
 author_profile: False
