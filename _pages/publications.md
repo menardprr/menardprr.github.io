@@ -5,6 +5,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: False
 ---
+
+* [**Adaptive Multi-Goal Exploration**] (https://arxiv.org/pdf/2111.12045.pdf), AISTATS 2022, with [Jean Tarbouriech](https://jtarbouriech.github.io/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html).
+
+
 * [**Model-Free Learning for Two-Player Zero-Sum Partially Observable Markov Games with Perfect Recall**](https://arxiv.org/pdf/2106.06279.pdf), NeurIPS 2021, with [Tadashi Kozuno](https://tadashik.github.io/), [Rémi Munos](http://researchers.lille.inria.fr/munos/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 
