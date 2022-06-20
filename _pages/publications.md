@@ -5,6 +5,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: False
 ---
+* [**From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses**](https://arxiv.org/pdf/2111.12045.pdf), ICML 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), [Eric Moulines](https://teopir.github.io/),[Alexey Naumov] (https://www.hse.ru/staff/anaumov),[Sergey Samsonov] (https://www.hse.ru/org/persons/219484540),[Yunhao Tang] (https://robintyh1.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+
 
 * [**Adaptive Multi-Goal Exploration**](https://arxiv.org/pdf/2111.12045.pdf), AISTATS 2022, with [Jean Tarbouriech](https://jtarbouriech.github.io/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html).
 
