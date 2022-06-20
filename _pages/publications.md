@@ -5,11 +5,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: False
 ---
-* [**From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses**](https://arxiv.org/pdf/2205.07704.pdf), ICML 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), [Eric Moulines](https://teopir.github.io/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Sergey Samsonov](https://www.hse.ru/org/persons/219484540), [Yunhao Tang](https://robintyh1.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses**](https://arxiv.org/pdf/2205.07704.pdf), ICML 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), [Eric Moulines](https://teopir.github.io/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Sergey Samsonov](https://www.hse.ru/org/persons/219484540), [Yunhao Tang](https://robintyh1.github.io/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 
 
-* [**Adaptive Multi-Goal Exploration**](https://arxiv.org/pdf/2111.12045.pdf), AISTATS 2022, with [Jean Tarbouriech](https://jtarbouriech.github.io/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html).
+* [**Adaptive Multi-Goal Exploration**](https://arxiv.org/pdf/2111.12045.pdf), AISTATS 2022, with [Jean Tarbouriech](https://jtarbouriech.github.io/), [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/) and [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html).
 
 
 * [**Model-Free Learning for Two-Player Zero-Sum Partially Observable Markov Games with Perfect Recall**](https://arxiv.org/pdf/2106.06279.pdf), NeurIPS 2021, with [Tadashi Kozuno](https://tadashik.github.io/), [Rémi Munos](http://researchers.lille.inria.fr/munos/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
@@ -22,7 +22,7 @@ author_profile: False
 
 
 
-* [**UCB Momentum Q-learning: Correcting the bias without forgetting**](https://arxiv.org/pdf/2103.01312.pdf), ICML 2021, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Xuedong Shang](https://xuedong.github.io/about/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**UCB Momentum Q-learning: Correcting the bias without forgetting**](https://arxiv.org/pdf/2103.01312.pdf), ICML 2021, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Xuedong Shang](https://xuedong.github.io/about/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Problem Dependent View on Structured Thresholding Bandit Problems**](https://arxiv.org/pdf/2106.10166.pdf), ICML 2021, with James Cheshire and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch).
 
@@ -31,7 +31,7 @@ author_profile: False
 * [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599), ICML 2021, with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**A kernel-based approach to non-stationary reinforcement learning in metric spaces**](https://arxiv.org/pdf/2007.05078.pdf), AISTATS 2021, with
-[Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+[Omar Darwiche Domingues](https://omardrwch.github.io/), [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Episodic Reinforcement Learning in Finite MDPs: Minimax Lower Bounds Revisited**](https://arxiv.org/pdf/2010.03531.pdf), ALT 2021,with [Omar Darwiche Domingues](https://omardrwch.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
