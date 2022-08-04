@@ -24,4 +24,4 @@ My work is mainly focused on bandit and reinforcement learning.
 Contact
 ======
 
- pierre.menard@ovgu.de
+pierre.menard.public@gmail.com
