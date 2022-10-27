@@ -5,7 +5,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: False
 ---
-* [**From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses**](https://arxiv.org/pdf/2205.07704.pdf), ICML 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Sergey Samsonov](https://www.hse.ru/org/persons/219484540), [Yunhao Tang](https://robintyh1.github.io/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**Optimistic posterior sampling for reinforcement learning with few samples and tight guarantees**](https://misovalko.github.io/publications/tiapkin2022optimistic.pdf), Neurips 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), Daniele Calandriello , [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Mark Rowland](https://sites.google.com/view/markrowland) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+
+* [**Learning Generative Models with Goal-conditioned Reinforcement Learning**](https://ewrl.files.wordpress.com/2022/09/generative_by_rl.pdf), EWRL 2022, with [Mariana Vargas Vieyra](https://marianaw.github.io/).
+
+* [**From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses**](https://arxiv.org/pdf/2205.07704.pdf), ICML 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/),[Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Sergey Samsonov](https://www.hse.ru/org/persons/219484540), [Yunhao Tang](https://robintyh1.github.io/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 
 
