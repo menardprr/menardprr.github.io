@@ -5,7 +5,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: False
 ---
-* [**Optimistic posterior sampling for reinforcement learning with few samples and tight guarantees**](https://misovalko.github.io/publications/tiapkin2022optimistic.pdf), Neurips 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), Daniele Calandriello , [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Mark Rowland](https://sites.google.com/view/markrowland) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
+* [**Optimistic posterior sampling for reinforcement learning with few samples and tight guarantees**](https://misovalko.github.io/publications/tiapkin2022optimistic.pdf), NeurIPS 2022, with Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), Daniele Calandriello , [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Mark Rowland](https://sites.google.com/view/markrowland) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
 
 * [**Learning Generative Models with Goal-conditioned Reinforcement Learning**](https://ewrl.files.wordpress.com/2022/09/generative_by_rl.pdf), EWRL 2022, with [Mariana Vargas Vieyra](https://marianaw.github.io/).
 
@@ -64,7 +64,7 @@ author_profile: False
 
 * [**Gradient Ascent for Active Exploration in Bandit Problems**](https://arxiv.org/pdf/1905.08165.pdf), preprint 2019.
 
-* [**KL-UCB-switch: optimal regret bounds for stochastic bandits from both a distribution-dependent and a distribution-free viewpoints**](https://arxiv.org/pdf/1805.05071.pdf), preprint 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/), [Hédi Hadiji](https://www.imo.universite-paris-saclay.fr/~hadiji/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
+* [**KL-UCB-switch: optimal regret bounds for stochastic bandits from both a distribution-dependent and a distribution-free viewpoints**](https://jmlr.org/papers/volume23/20-717/20-717.pdf), JMLR 2022, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/), [Hédi Hadiji](https://www.imo.universite-paris-saclay.fr/~hadiji/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
 * [**Explore first, exploit next: the true shape of regret in bandit problems**](https://arxiv.org/pdf/1602.07182.pdf), MOR 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
