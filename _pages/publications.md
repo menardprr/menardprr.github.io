@@ -1,7 +1,5 @@
 ---
-header:
-  image: argentine_1.jpg
-title: "Publications"
+title: "Publications [Google Scholar profile](https://scholar.google.com/citations?user=KXimUncAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: False
 ---
@@ -70,4 +68,3 @@ author_profile: False
 
 * [**A minimax and asymptotically optimal algorithm for stochastic bandits**](https://arxiv.org/pdf/1702.07211.pdf), ALT 2017, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
 
-You can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=KXimUncAAAAJ&hl=en").
