@@ -1,5 +1,5 @@
 ---
-title: "Publications [Google Scholar](https://scholar.google.com/citations?user=KXimUncAAAAJ&hl=en)"
+title: "Publications <font size=1> [[Google Scholar](https://scholar.google.com/citations?user=KXimUncAAAAJ&hl=en)] </font>"
 permalink: /publications/
 author_profile: False
 ---
@@ -67,4 +67,5 @@ author_profile: False
 * [**Explore first, exploit next: the true shape of regret in bandit problems**](https://arxiv.org/pdf/1602.07182.pdf), MOR 2018, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/) and [Gilles Stoltz](http://stoltz.perso.math.cnrs.fr/).
 
 * [**A minimax and asymptotically optimal algorithm for stochastic bandits**](https://arxiv.org/pdf/1702.07211.pdf), ALT 2017, with [Aurélien Garivier](http://www.math.univ-toulouse.fr/%7Eagarivie/).
+
 
