@@ -44,7 +44,7 @@ author_profile: False
   **Pierre Ménard**, [Omar Darwiche Domingues](https://omardrwch.github.io/), [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/), [Edouard Leurent](http://edouardleurent.com/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), ICML 2021.
 
 * [**Regret bounds for kernel-based reinforcement learning**](https://arxiv.org/pdf/2004.05599)  
-  [Omar Darwiche Domingues](https://omardrwch.github.io/), **Pierre Ménard**,[Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), ICML 2021.
+  [Omar Darwiche Domingues](https://omardrwch.github.io/), **Pierre Ménard**, [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), ICML 2021.
 
 * [**A kernel-based approach to non-stationary reinforcement learning in metric spaces**](https://arxiv.org/pdf/2007.05078.pdf)  
   [Omar Darwiche Domingues](https://omardrwch.github.io/), **Pierre Ménard**, [Matteo Pirotta](https://teopir.github.io/), [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), AISTATS 2021.
