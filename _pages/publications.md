@@ -6,8 +6,12 @@ author_profile: False
 
 (You can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=KXimUncAAAAJ&hl=en))
 
-* [**Fast Rates for Maximum Entropy Exploration**](https://arxiv.org/pdf/2303.08059.pdf) 
-Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), Daniele Calandriello , [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), Pierre Perrault, [Yunhao Tang](https://robintyh1.github.io/),[Michal Valko](http://researchers.lille.inria.fr/~valko/hp/) and **Pierre Ménard**, NeurIPS 2022.
+* [**Adapting to game trees in zero-sum imperfect information games**](https://arxiv.org/pdf/2212.12567.pdf)
+Côme Fiegel, **Pierre Ménard**, [Tadashi Kozuno](https://tadashik.github.io/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Vianney Perchet](https://vianney.ai/) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), ICML 2023
+
+
+* [**Fast Rates for Maximum Entropy Exploration**](https://arxiv.org/pdf/2303.08059.pdf)
+Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), Daniele Calandriello , [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), Pierre Perrault, [Yunhao Tang](https://robintyh1.github.io/), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/) and **Pierre Ménard**, ICML 2023.
 
 * [**Optimistic posterior sampling for reinforcement learning with few samples and tight guarantees**](https://misovalko.github.io/publications/tiapkin2022optimistic.pdf)
   Daniil Tiapkin, [Denis Belomestny](https://www.uni-due.de/~hm0124/), Daniele Calandriello , [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/), [Rémi Munos](http://researchers.lille.inria.fr/munos/), [Alexey Naumov](https://www.hse.ru/staff/anaumov), [Mark Rowland](https://sites.google.com/view/markrowland), [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/) and **Pierre Ménard**, NeurIPS 2022.
